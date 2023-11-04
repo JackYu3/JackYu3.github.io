@@ -168,4 +168,10 @@
         <tag>test</tag>
       </tags>
   </entry>
+  <entry>
+    <title>目前似乎不支持latex</title>
+    <url>/2023/11/04/%E7%9B%AE%E5%89%8D%E4%BC%BC%E4%B9%8E%E4%B8%8D%E6%94%AF%E6%8C%81latex/</url>
+    <content><![CDATA[<p>  好好的hexo，默认渲染器怎么就不支持latex😤</p>
+]]></content>
+  </entry>
 </search>
