@@ -157,4 +157,15 @@
         <tag>秋</tag>
       </tags>
   </entry>
+  <entry>
+    <title>实验及latex测试</title>
+    <url>/2023/11/04/%E5%AE%9E%E9%AA%8C%E5%8F%8Alatex%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>测量其周期，以30个为一个单位进行测量，以减少计时所带来的误差</p>
+<p>改变物块的位置，最后通过线性拟合计算出其转动惯量<br>$$<br>b为物体过质心转动惯量与杆的转动惯量，k为与位置有关的ml^2项<br>$$<br>问题</p>
+<p>在实验过程中发现其振幅会因阻力较为快速的衰减，对实验结果有不小的影响，进行修正<br>$$<br>首先，设其受一与角速度成线性关系的力矩：M_f&#x3D;-A\dot{\theta}<br>\<br>则其运动方程变为：I\ddot{\theta}+A\dot{\theta}+mgl{\theta}&#x3D;0<br>\<br>初始条件为：{\theta}(0)&#x3D;{\theta _0}，\dot{\theta _0}&#x3D;0<br>\<br>\theta &#x3D;\theta _0e^{-\frac{A}{2I}t}\left[ \cos \left( \omega t \right) +\frac{A}{2I\omega}\sin \left( \omega t \right) \right]，\omega &#x3D;\sqrt{\frac{mgl}{I}-\left( \frac{A}{2I} \right) ^2}<br>\<br>数据处理这一点暂时待定，通过改变l而进行拟合似乎不是很方便？<br>\<br>当然也还好，比如衰减项？<br>$$</p>
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
 </search>
