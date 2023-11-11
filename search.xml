@@ -1,13 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>置顶 请查看</title>
-    <url>/2023/11/11/%E6%B3%A8%E6%84%8F/</url>
-    <content><![CDATA[<p>11/11/2023 11：18</p>
-<p>此网站为静态网页，浏览器的缓存可能更新不及时，可以强制清楚缓存刷新</p>
-<p>可以借助上面的时间判断，此篇文章每半天会更新一次时间，若访问时间与上述时间相差一天，则应该为缓存的问题</p>
-<p><strong>注：经测试，直接在微信内打开本网页链接，可以避免缓存问题(得益于微信简陋的webview🤔)</strong></p>
+    <title>Test</title>
+    <url>/2023/11/01/Test/</url>
+    <content><![CDATA[<p>This is a test.</p>
 ]]></content>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>11/3/2023 日记</title>
+    <url>/2023/11/03/11-3-2023-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>11/2/2023 日记</title>
+    <url>/2023/11/02/11-2-2023-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li><strong>夜空永远是最好的画布</strong></li>
+<li>今天上午，路边，一处小树林旁，见其间一条弯弯的石板路，<span id="more"></span>阳光透过不是很密的枝叶，一片一片金黄洒在柔绿的草地上，七八只鸟儿在林间舞动，种类不同，都不怕人，扑翅弹跳，十分灵巧惹人怜。有一个场景可惜没拍下来，一只身披灰羽的鸟，以极优雅端庄的姿态穿过小路，其身躯与石板的比例，恰如其分，画面十分完美。</li>
+<li>下午，在上坡时，迎着灿烂的阳光，路旁有几棵树，树下，璨璨的，粉红色的花一朵接一朵，其间亦有青草。花草接壤间，充盈着柔柔的光。</li>
+<li>晚上，做实验，半导体温度计，电路需要焊接，第一次用电烙铁，其间大拇指不小心挨了一下，只一瞬间，过一会开始痛，一段时间后起了一个小包，500摄氏度还是要小心的；同时，由于在焊接时担心接触不良，使用了相当于正常量4倍的锡，品质当然非常棒，毕竟出自XYLS之手😎，只是没料到，实验结束，融化锡时，需要几倍于别人的时间耐心等待，500摄氏度不过如此🥱</li>
+<li>要开始准备实验论文啦</li>
+<li>以及数分</li>
+<li>zoom在国内使用不便，teams似乎比较卡，最后最好的选择居然是腾讯会议，无奈屈服于现状🥲</li>
+<li>睡觉😴</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>记录</tag>
+        <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/11/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>加密测试</title>
+    <url>/2023/11/02/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="76c6545672cccf348f8c57af7ebe9cfd6c81bd72a377801ad0296e3fd96cb2e9">4630436162ade97ba2718b7d0c4b3b63cbf22708173a6d59f69c642e7d695da82392c3152211c84589e8c1bf8267bc6d</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>夜晚 激光 云杉</title>
+    <url>/2023/11/03/%E5%A4%9C%E6%99%9A-%E6%BF%80%E5%85%89-%E4%BA%91%E6%9D%89/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>分类测试</title>
+    <url>/2023/11/01/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>分类测试</p>
+]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
   </entry>
   <entry>
     <title>实验及latex测试</title>
@@ -57,38 +136,6 @@ s76,-153,76,-153s77,-151,77,-151c0.7,0.7,35.7,202,105,604c67.3,400.7,102,602.7,1
       </categories>
       <tags>
         <tag>秋</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>夜晚 激光 云杉</title>
-    <url>/2023/11/03/%E5%A4%9C%E6%99%9A-%E6%BF%80%E5%85%89-%E4%BA%91%E6%9D%89/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>11/3/2023 日记</title>
-    <url>/2023/11/03/11-3-2023-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>11/2/2023 日记</title>
-    <url>/2023/11/02/11-2-2023-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li><strong>夜空永远是最好的画布</strong></li>
-<li>今天上午，路边，一处小树林旁，见其间一条弯弯的石板路，<span id="more"></span>阳光透过不是很密的枝叶，一片一片金黄洒在柔绿的草地上，七八只鸟儿在林间舞动，种类不同，都不怕人，扑翅弹跳，十分灵巧惹人怜。有一个场景可惜没拍下来，一只身披灰羽的鸟，以极优雅端庄的姿态穿过小路，其身躯与石板的比例，恰如其分，画面十分完美。</li>
-<li>下午，在上坡时，迎着灿烂的阳光，路旁有几棵树，树下，璨璨的，粉红色的花一朵接一朵，其间亦有青草。花草接壤间，充盈着柔柔的光。</li>
-<li>晚上，做实验，半导体温度计，电路需要焊接，第一次用电烙铁，其间大拇指不小心挨了一下，只一瞬间，过一会开始痛，一段时间后起了一个小包，500摄氏度还是要小心的；同时，由于在焊接时担心接触不良，使用了相当于正常量4倍的锡，品质当然非常棒，毕竟出自XYLS之手😎，只是没料到，实验结束，融化锡时，需要几倍于别人的时间耐心等待，500摄氏度不过如此🥱</li>
-<li>要开始准备实验论文啦</li>
-<li>以及数分</li>
-<li>zoom在国内使用不便，teams似乎比较卡，最后最好的选择居然是腾讯会议，无奈屈服于现状🥲</li>
-<li>睡觉😴</li>
-</ul>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>记录</tag>
-        <tag>软件</tag>
       </tags>
   </entry>
   <entry>
@@ -190,59 +237,12 @@ s76,-153,76,-153s77,-151,77,-151c0.7,0.7,35.7,202,105,604c67.3,400.7,102,602.7,1
       </tags>
   </entry>
   <entry>
-    <title>加密测试</title>
-    <url>/2023/11/02/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="76c6545672cccf348f8c57af7ebe9cfd6c81bd72a377801ad0296e3fd96cb2e9">4630436162ade97ba2718b7d0c4b3b63cbf22708173a6d59f69c642e7d695da82392c3152211c84589e8c1bf8267bc6d</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <tags>
-        <tag>Test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/11/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>置顶 请查看</title>
+    <url>/2023/11/11/%E6%B3%A8%E6%84%8F/</url>
+    <content><![CDATA[<p>11/11/2023 11：18</p>
+<p>此网站为静态网页，浏览器的缓存可能更新不及时，可以强制清楚缓存刷新</p>
+<p>可以借助上面的时间判断，此篇文章每半天会更新一次时间，若访问时间与上述时间相差一天，则应该为缓存的问题</p>
+<p><strong>注：经测试，直接在微信内打开本网页，有可能没有缓存问题，若网页未更新，点击右上角三个点，选择刷新，多点几次就可以了(在chrome和safari中尚不知正常刷新是否有效)</strong></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>分类测试</title>
-    <url>/2023/11/01/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>分类测试</p>
-]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Test</title>
-    <url>/2023/11/01/Test/</url>
-    <content><![CDATA[<p>This is a test.</p>
-]]></content>
-      <tags>
-        <tag>Test</tag>
-      </tags>
   </entry>
 </search>
