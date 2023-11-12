@@ -1,19 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>置顶 请查看</title>
-    <url>/2023/11/11/%E6%B3%A8%E6%84%8F/</url>
-    <content><![CDATA[<p>11/12/2023 12:17</p>
-<p>此网站为静态网页，浏览器的缓存可能更新不及时，可以强制清楚缓存刷新</p>
-<p>可以借助上面的时间判断，此篇文章每半天会更新一次时间，若访问时间与上述时间相差一天，则应该为缓存的问题</p>
-<p><strong>注：经测试，直接在微信内打开本网页，有可能没有缓存问题，若网页未更新，点击右上角三个点，选择刷新，多点几次 (五六七八次 ? ) 就可以了(在chrome和safari中尚不知正常刷新是否有效)</strong></p>
+    <title>Test</title>
+    <url>/2023/11/01/Test/</url>
+    <content><![CDATA[<p>This is a test.</p>
+]]></content>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>11/3/2023 日记</title>
+    <url>/2023/11/03/11-3-2023-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>11/2/2023 日记</title>
+    <url>/2023/11/02/11-2-2023-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li><strong>夜空永远是最好的画布</strong></li>
+<li>今天上午，路边，一处小树林旁，见其间一条弯弯的石板路，<span id="more"></span>阳光透过不是很密的枝叶，一片一片金黄洒在柔绿的草地上，七八只鸟儿在林间舞动，种类不同，都不怕人，扑翅弹跳，十分灵巧惹人怜。有一个场景可惜没拍下来，一只身披灰羽的鸟，以极优雅端庄的姿态穿过小路，其身躯与石板的比例，恰如其分，画面十分完美。</li>
+<li>下午，在上坡时，迎着灿烂的阳光，路旁有几棵树，树下，璨璨的，粉红色的花一朵接一朵，其间亦有青草。花草接壤间，充盈着柔柔的光。</li>
+<li>晚上，做实验，半导体温度计，电路需要焊接，第一次用电烙铁，其间大拇指不小心挨了一下，只一瞬间，过一会开始痛，一段时间后起了一个小包，500摄氏度还是要小心的；同时，由于在焊接时担心接触不良，使用了相当于正常量4倍的锡，品质当然非常棒，毕竟出自XYLS之手😎，只是没料到，实验结束，融化锡时，需要几倍于别人的时间耐心等待，500摄氏度不过如此🥱</li>
+<li>要开始准备实验论文啦</li>
+<li>以及数分</li>
+<li>zoom在国内使用不便，teams似乎比较卡，最后最好的选择居然是腾讯会议，无奈屈服于现状🥲</li>
+<li>睡觉😴</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>记录</tag>
+        <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/11/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
   <entry>
-    <title>秋</title>
-    <url>/2023/11/12/%E7%A7%8B/</url>
+    <title>加密测试</title>
+    <url>/2023/11/02/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="67e0481560c4cf5dc9f06d3110d697965126257cec446ce1c02b43420ed8742c">eda57e9acee72ac0d866bf38b87518fc8f686317af877b694b88fe9cdcb9a57ff333b819da9b450ebe94ef7c6f7d9b1acf183ac12bf5cbb8d32b0a5d0f55205b023ae89d797f5b234e8974002ac87c7531c77d0e59e3014928e3499954440d7e291f86135ce594e3e8d85403ab40088ee19d8a3e8e8a1f14c33f3085b44a06eb010c48e97c43a4df00dcf164e8c46b838e88660f7935e79df619af2de01ee7e8cdab1ebd68038d0a2ff8a6793b67054575e59d7a3beb64c3344b397a0962a57f2370dfda3239dd1641d928fa4ed8fba2355591e138e3de335b97ffa3d0562f2ce7ae1edf4894591a3aa4887084b545709e8fe103d5cdfb7afe2146805c7e06a21c939c1fc7d1888ae11fc6fa01ca5058f3078a84a13ef96ce5631867aa850616c58831764477ae7ce93e35974e4a712e1e4ddb64b75f298b74013dde38506f5d2494e1f725506947a909aaf1d71fd3643670dc6f29073c34c4563c71201fd73aba8689efe4ecb75b787a77b29f472d05ef347209de07352a18befaf3e3190a43d2a76f47c447bb8d16bac2bcf6ded5594ea48caa55c72edffd4a65c8a7dda9aae25e9894afa7b8ba8173cd644fb17b3aa4ebe25875d5a18a33a4afa9cdf5d8c9bf084557c52003ddac80de345c3786cf85df306ec233f33a8439e2736785fb4be6add4d947a4d6435bda7b2d81192822cee59067611280cee6b792b7da51a8e14f2a3458690caef00c11834bf7ca07ce06bf85aef85b6fd991de73546d8f3f791d3520422462d726cc842ab8300afe0345fd146c7f801f28f239f41f3eed2e96e833e402302a1302038d6c7f01bd716224dac0e35300d1be916e428c6059dc58fc9e3e41f9fd4360ae457ec8309d6b40efca2455745edd08f9a18bca4eab8824e041285d5b835380d74b552041e86a17f06f986eded5ae47ebd6861eb5bc7df638ef205025f80a736f389e0ac8760d1a</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="76c6545672cccf348f8c57af7ebe9cfd6c81bd72a377801ad0296e3fd96cb2e9">4630436162ade97ba2718b7d0c4b3b63cbf22708173a6d59f69c642e7d695da82392c3152211c84589e8c1bf8267bc6d</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -24,21 +70,180 @@
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>夜晚 激光 云杉</title>
+    <url>/2023/11/03/%E5%A4%9C%E6%99%9A-%E6%BF%80%E5%85%89-%E4%BA%91%E6%9D%89/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>分类测试</title>
+    <url>/2023/11/01/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>分类测试</p>
+]]></content>
       <categories>
-        <category>图片</category>
+        <category>Testing</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>实验及latex测试</title>
+    <url>/2023/11/04/%E5%AE%9E%E9%AA%8C%E5%8F%8Alatex%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>测量其周期，以30个为一个单位进行测量，以减少计时所带来的误差</p>
+<p>改变物块的位置，最后通过线性拟合计算出其转动惯量</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>b</mi><mtext>为物体过质心转动惯量与杆的转动惯量，</mtext><mi>k</mi><mtext>为与位置有关的</mtext><mi>m</mi><msup><mi>l</mi><mn>2</mn></msup><mtext>项</mtext></mrow><annotation encoding="application/x-tex">b为物体过质心转动惯量与杆的转动惯量，k为与位置有关的ml^2项
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8641079999999999em;vertical-align:0em;"></span><span class="mord mathdefault">b</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">物</span><span class="mord cjk_fallback">体</span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">质</span><span class="mord cjk_fallback">心</span><span class="mord cjk_fallback">转</span><span class="mord cjk_fallback">动</span><span class="mord cjk_fallback">惯</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">与</span><span class="mord cjk_fallback">杆</span><span class="mord cjk_fallback">的</span><span class="mord cjk_fallback">转</span><span class="mord cjk_fallback">动</span><span class="mord cjk_fallback">惯</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">，</span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">与</span><span class="mord cjk_fallback">位</span><span class="mord cjk_fallback">置</span><span class="mord cjk_fallback">有</span><span class="mord cjk_fallback">关</span><span class="mord cjk_fallback">的</span><span class="mord mathdefault">m</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord cjk_fallback">项</span></span></span></span></span></p>
+<p>问题</p>
+<p>在实验过程中发现其振幅会因阻力较为快速的衰减，对实验结果有不小的影响，进行修正</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>首先，设其受一与角速度成线性关系的力矩：</mtext><msub><mi>M</mi><mi>f</mi></msub><mo>=</mo><mo>−</mo><mi>A</mi><mover accent="true"><mi>θ</mi><mo>˙</mo></mover><mspace linebreak="newline"></mspace><mtext>则其运动方程变为：</mtext><mi>I</mi><mover accent="true"><mi>θ</mi><mo>¨</mo></mover><mo>+</mo><mi>A</mi><mover accent="true"><mi>θ</mi><mo>˙</mo></mover><mo>+</mo><mi>m</mi><mi>g</mi><mi>l</mi><mi>θ</mi><mo>=</mo><mn>0</mn><mspace linebreak="newline"></mspace><mtext>初始条件为：</mtext><mi>θ</mi><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>=</mo><msub><mi>θ</mi><mn>0</mn></msub><mtext>，</mtext><msub><mover accent="true"><mi>θ</mi><mo>˙</mo></mover><mn>0</mn></msub><mo>=</mo><mn>0</mn><mspace linebreak="newline"></mspace><mi>θ</mi><mo>=</mo><msub><mi>θ</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>A</mi><mrow><mn>2</mn><mi>I</mi></mrow></mfrac><mi>t</mi></mrow></msup><mrow><mo fence="true">[</mo><mi>cos</mi><mo>⁡</mo><mrow><mo fence="true">(</mo><mi>ω</mi><mi>t</mi><mo fence="true">)</mo></mrow><mo>+</mo><mfrac><mi>A</mi><mrow><mn>2</mn><mi>I</mi><mi>ω</mi></mrow></mfrac><mi>sin</mi><mo>⁡</mo><mrow><mo fence="true">(</mo><mi>ω</mi><mi>t</mi><mo fence="true">)</mo></mrow><mo fence="true">]</mo></mrow><mtext>，</mtext><mi>ω</mi><mo>=</mo><msqrt><mrow><mfrac><mrow><mi>m</mi><mi>g</mi><mi>l</mi></mrow><mi>I</mi></mfrac><mo>−</mo><msup><mrow><mo fence="true">(</mo><mfrac><mi>A</mi><mrow><mn>2</mn><mi>I</mi></mrow></mfrac><mo fence="true">)</mo></mrow><mn>2</mn></msup></mrow></msqrt><mspace linebreak="newline"></mspace><mtext>数据处理这一点暂时待定，通过改变</mtext><mi>l</mi><mtext>而进行拟合似乎不是很方便？</mtext><mspace linebreak="newline"></mspace><mtext>当然也还好，比如衰减项？</mtext></mrow><annotation encoding="application/x-tex">首先，设其受一与角速度成线性关系的力矩：M_f=-A\dot{\theta}
+\\
+则其运动方程变为：I\ddot{\theta}+A\dot{\theta}+mgl{\theta}=0
+\\
+初始条件为：{\theta}(0)={\theta _0}，\dot{\theta} _0=0
+\\
+\theta =\theta _0e^{-\frac{A}{2I}t}\left[ \cos \left( \omega t \right) +\frac{A}{2I\omega}\sin \left( \omega t \right) \right]，\omega =\sqrt{\frac{mgl}{I}-\left( \frac{A}{2I} \right) ^2}
+\\
+数据处理这一点暂时待定，通过改变l而进行拟合似乎不是很方便？
+\\
+当然也还好，比如衰减项？
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord cjk_fallback">首</span><span class="mord cjk_fallback">先</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">设</span><span class="mord cjk_fallback">其</span><span class="mord cjk_fallback">受</span><span class="mord cjk_fallback">一</span><span class="mord cjk_fallback">与</span><span class="mord cjk_fallback">角</span><span class="mord cjk_fallback">速</span><span class="mord cjk_fallback">度</span><span class="mord cjk_fallback">成</span><span class="mord cjk_fallback">线</span><span class="mord cjk_fallback">性</span><span class="mord cjk_fallback">关</span><span class="mord cjk_fallback">系</span><span class="mord cjk_fallback">的</span><span class="mord cjk_fallback">力</span><span class="mord cjk_fallback">矩</span><span class="mord cjk_fallback">：</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.01463em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord mathdefault">A</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.055550000000000016em;"><span class="mord">˙</span></span></span></span></span></span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:1.01463em;vertical-align:-0.08333em;"></span><span class="mord cjk_fallback">则</span><span class="mord cjk_fallback">其</span><span class="mord cjk_fallback">运</span><span class="mord cjk_fallback">动</span><span class="mord cjk_fallback">方</span><span class="mord cjk_fallback">程</span><span class="mord cjk_fallback">变</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">：</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.16666em;"><span class="mord">¨</span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.01463em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">A</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.055550000000000016em;"><span class="mord">˙</span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault" style="margin-right:0.03588em;">g</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord cjk_fallback">初</span><span class="mord cjk_fallback">始</span><span class="mord cjk_fallback">条</span><span class="mord cjk_fallback">件</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">：</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span><span class="mopen">(</span><span class="mord">0</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.0813em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span><span class="mord cjk_fallback">，</span><span class="mord"><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.055550000000000016em;"><span class="mord">˙</span></span></span></span></span></span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathdefault">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.0234649999999998em;"><span style="top:-3.4130000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8720928571428572em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mathdefault mtight" style="margin-right:0.07847em;">I</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.384em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span><span class="mord mathdefault mtight">t</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span><span class="mord mathdefault">t</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">A</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mop">sin</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span><span class="mord mathdefault">t</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord cjk_fallback">，</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:3.04em;vertical-align:-1.0541359999999997em;"></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.9858640000000003em;"><span class="svg-align" style="top:-5em;"><span class="pstrut" style="height:5em;"></span><span class="mord" style="padding-left:1em;"><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07847em;">I</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">m</span><span class="mord mathdefault" style="margin-right:0.03588em;">g</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="minner"><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">A</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">)</span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.6540080000000001em;"><span style="top:-3.9029000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span><span style="top:-3.9458640000000003em;"><span class="pstrut" style="height:5em;"></span><span class="hide-tail" style="min-width:1.02em;height:3.08em;"><svg width='400em' height='3.08em' viewBox='0 0 400000 3240' preserveAspectRatio='xMinYMin slice'><path d='M473,2793
+c339.3,-1799.3,509.3,-2700,510,-2702 l0 -0
+c3.3,-7.3,9.3,-11,18,-11 H400000v40H1017.7
+s-90.5,478,-276.2,1466c-185.7,988,-279.5,1483,-281.5,1485c-2,6,-10,9,-24,9
+c-8,0,-12,-0.7,-12,-2c0,-1.3,-5.3,-32,-16,-92c-50.7,-293.3,-119.7,-693.3,-207,-1200
+c0,-1.3,-5.3,8.7,-16,30c-10.7,21.3,-21.3,42.7,-32,64s-16,33,-16,33s-26,-26,-26,-26
+s76,-153,76,-153s77,-151,77,-151c0.7,0.7,35.7,202,105,604c67.3,400.7,102,602.7,104,
+606zM1001 80h400000v40H1017.7z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.0541359999999997em;"><span></span></span></span></span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord cjk_fallback">数</span><span class="mord cjk_fallback">据</span><span class="mord cjk_fallback">处</span><span class="mord cjk_fallback">理</span><span class="mord cjk_fallback">这</span><span class="mord cjk_fallback">一</span><span class="mord cjk_fallback">点</span><span class="mord cjk_fallback">暂</span><span class="mord cjk_fallback">时</span><span class="mord cjk_fallback">待</span><span class="mord cjk_fallback">定</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">通</span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">改</span><span class="mord cjk_fallback">变</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord cjk_fallback">而</span><span class="mord cjk_fallback">进</span><span class="mord cjk_fallback">行</span><span class="mord cjk_fallback">拟</span><span class="mord cjk_fallback">合</span><span class="mord cjk_fallback">似</span><span class="mord cjk_fallback">乎</span><span class="mord cjk_fallback">不</span><span class="mord cjk_fallback">是</span><span class="mord cjk_fallback">很</span><span class="mord cjk_fallback">方</span><span class="mord cjk_fallback">便</span><span class="mord cjk_fallback">？</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord cjk_fallback">当</span><span class="mord cjk_fallback">然</span><span class="mord cjk_fallback">也</span><span class="mord cjk_fallback">还</span><span class="mord cjk_fallback">好</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">比</span><span class="mord cjk_fallback">如</span><span class="mord cjk_fallback">衰</span><span class="mord cjk_fallback">减</span><span class="mord cjk_fallback">项</span><span class="mord cjk_fallback">？</span></span></span></span></span></p>
+]]></content>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>秋声赋</title>
+    <url>/2023/11/03/%E7%A7%8B%E5%A3%B0%E8%B5%8B/</url>
+    <content><![CDATA[<p><strong>秋声赋</strong></p>
+<p>欧阳修</p>
+<p>欧阳子方夜读书，闻有声自西南来者，悚然而听之，曰：“异哉！”初淅沥以萧飒，忽奔腾而砰湃，如波涛夜惊，风雨骤至。其触于物也，鏦鏦铮铮，金铁皆鸣；又如赴敌之兵，衔枚疾走，不闻号令，但闻人马之行声。余谓童子：“此何声也？汝出视之。”童子曰：“星月皎洁，明河在天，四无人声，声在树间。”</p>
+<p>余曰：“噫嘻悲哉！此秋声也，胡为而来哉？盖夫秋之为状也：其色惨淡，烟霏云敛；其容清明，天高日晶；其气栗冽，砭人肌骨；其意萧条，山川寂寥。故其为声也，凄凄切切，呼号愤发。丰草绿缛而争茂，佳木葱茏而可悦；草拂之而色变，木遭之而叶脱。其所以摧败零落者，乃其一气之余烈。夫秋，刑官也，于时为阴；又兵象也，于行用金，是谓天地之义气，常以肃杀而为心。天之于物，春生秋实，故其在乐也，商声主西方之音，夷则为七月之律。商，伤也，物既老而悲伤；夷，戮也，物过盛而当杀。” (余曰 一作：予曰)</p>
+<p>“嗟乎！草木无情，有时飘零。人为动物，惟物之灵；百忧感其心，万事劳其形；有动于中，必摇其精。而况思其力之所不及，忧其智之所不能；宜其渥然丹者为槁木，黟然黑者为星星。奈何以非金石之质，欲与草木而争荣？念谁为之戕贼，亦何恨乎秋声！”</p>
+<p>童子莫对，垂头而睡。但闻四壁虫声唧唧，如助予之叹息。</p>
+]]></content>
+      <categories>
+        <category>诗词文赋</category>
       </categories>
       <tags>
         <tag>秋</tag>
       </tags>
   </entry>
   <entry>
-    <title>新增每日一言</title>
-    <url>/2023/11/11/%E6%96%B0%E5%A2%9E%E6%AF%8F%E6%97%A5%E4%B8%80%E8%A8%80/</url>
-    <content><![CDATA[<p>博客新增栏目，每日一言，从明天开始，每日分享一段各国文学作品中的文字，英国、俄罗斯、葡语等等，当然也包括中国各地的文学</p>
+    <title>红豆曲</title>
+    <url>/2023/11/02/%E7%BA%A2%E8%B1%86%E6%9B%B2/</url>
+    <content><![CDATA[<p><img src="/pic/%E7%BA%A2%E8%B1%86%E6%9B%B2.jpg" alt="配图" title="一张图片"><br>
+<strong>滴不尽相思血泪抛红豆，开不完春柳春花满画楼</strong><br>
+<strong>睡不稳纱窗风雨黄昏后，忘不了新愁与旧愁</strong><br>
+<strong>咽不下玉粒金莼噎满喉；照不见菱花镜里形容瘦</strong><br>
+<strong>展不开的眉头，捱不明的更漏</strong><br>
+<strong>呀！恰便似遮不住的青山隐隐，流不断的绿水悠悠</strong></p>
+<p>有很多典故</p>
+<p>关于红楼梦，一种看法是对于朱明的追忆，在这种观点下，葬花词、红豆曲，便是另外一层意思，不妨看一看这个观点下的解读(不作褒贬的评价)，来源于网络</p>
+<span id="more"></span>
+<p><strong>滴不尽相思血泪抛红豆</strong></p>
+<blockquote>
+<p>关于相思豆，有多个传说</p>
+<ul>
+<li>传说在汉代时，一位男子即将出征，其妻每日在高山上等待盼望，日复一日终不见其归来，遂常泪流不止，直至泪水流尽，滴下血红的血泪，落在地上，受天地滋养，生根发芽，长成后结朱红色果实，被称为相思豆</li>
+<li>传说一位貌美的姑娘，思念因寻找幸福泉而出走的挚爱，每日在山坡上遥望远方，盼其归来，泪珠撒在树枝上，形成颗颗红色的心形圆粒，便为相思豆</li>
+<li>在这个观点下，有人认为，血泪红豆是对死难疆场的英雄的悼念，与葬花吟照应，是对扬州城破、史可法殉国以及扬州十日八十万死难百姓的祭奠</li>
+</ul>
+</blockquote>
+<p><strong>开不完春柳春花满画楼</strong></p>
+<blockquote>
+<p>伊昔<br>
+作者: 于石 南宋<br>
+伊昔西湖柳，清阴满画楼<br>
+午凉欺舞扇，晚雨系渔舟<br>
+春尽花无主，风寒叶自秋<br>
+六桥今在否，空惜旧时游<br>
+南宋灭亡后，作者重游故都临安，感怀而作此诗</p>
+</blockquote>
+<p><strong>睡不稳纱窗风雨黄昏后</strong></p>
+<blockquote>
+<p>八声甘州·故将军饮罢夜归来<br>
+作者: 辛弃疾 宋<br>
+夜读《李广传》，不能寐。因念晁楚老、杨民瞻约同居山间，戏用李广事，赋以寄之<br>
+故将军饮罢夜归来，长亭解雕鞍<br>
+恨灞陵醉尉，匆匆未识，桃李无言<br>
+射虎山横一骑，裂石响惊弦<br>
+落魄封侯事，岁晚田间<br>
+谁向桑麻杜曲，要短衣匹马，移住南山<br>
+看风流慷慨，谈笑过残年<br>
+汉开边、功名万里，甚当时、健者也曾闲<br>
+纱窗外、斜风细雨，一阵轻寒</p>
+</blockquote>
+<p><strong>忘不了新愁与旧愁</strong></p>
+<blockquote>
+<p>自曹南至阳翟追怀江上旧游呈叔弟<br>
+作者: 吕本中 宋<br>
+醉别白沙江上亭，晚蝉高树各秋声<br>
+风乘小艇凫鹥进，雨历疏檐环佩鸣<br>
+家事不随王事了，新愁常接旧愁生<br>
+只今疲病嫌鞍马，十日同居眼暂明</p>
+</blockquote>
+<p><strong>咽不下玉粒金莼噎满喉</strong></p>
+<blockquote>
+<p>玉粒:<br>
+题二禽图<br>
+作者: 吴伟业 明末<br>
+旧朝虽去主人空，剪雨捎风自在中<br>
+却笑雪衣贪玉粒，羽毛憔悴闭雕笼<br>
+金莼:<br>
+张翰 “莼鲈之思”<br>
+意指既不愿为满清的奴才，也无法归隐，独善其身</p>
+</blockquote>
+<p><strong>照不见菱花镜里形容瘦</strong></p>
+<blockquote>
+<p>明妃怨<br>
+作者: 杨达 唐<br>
+汉国明妃去不还，马驼弦管向阴山<br>
+匣中纵有菱花镜，羞对单于照旧颜</p>
+</blockquote>
+<p><strong>展不开的眉头，捱不明的更漏</strong></p>
+<blockquote>
+<p>李清照 宋<br>
+一剪梅: 花自飘零水自流，一种相思，两处闲愁  此情无计可消除  才下眉头，却上心头<br>
+行香子: 那堪永夜，明月空床  闻砧声捣，蛩声细，漏声长</p>
+</blockquote>
+<p><strong>呀！恰便似遮不住的青山隐隐，流不断的绿水悠悠</strong></p>
+<blockquote>
+<p>菩萨蛮·书江西造口壁<br>
+辛弃疾 宋<br>
+郁孤台下清江水，中间多少行人泪<br>
+西北望长安，可怜无数山<br>
+青山遮不住，毕竟东流去<br>
+江晚正愁余，山深闻鹧鸪。(愁余 一作：愁予)</p>
+</blockquote>
+<p>还挺有意思的。</p>
 ]]></content>
       <categories>
-        <category>每日一言</category>
+        <category>诗词文赋</category>
       </categories>
+      <tags>
+        <tag>红楼梦</tag>
+        <tag>清朝</tag>
+        <tag>曹雪芹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>置顶 请查看</title>
+    <url>/2023/11/11/%E6%B3%A8%E6%84%8F/</url>
+    <content><![CDATA[<p>11/12/2023 15:21</p>
+<p>此网站为静态网页，浏览器的缓存可能更新不及时，可以强制清楚缓存刷新</p>
+<p>可以借助上面的时间判断，此篇文章每半天会更新一次时间，若访问时间与上述时间相差一天，则应该为缓存的问题</p>
+<p><strong>注：经测试，直接在微信内打开本网页，有可能没有缓存问题，若网页未更新，点击右上角三个点，选择刷新，多点几次 (五六七八次 ? ) 就可以了(在chrome和safari中尚不知正常刷新是否有效)</strong></p>
+]]></content>
   </entry>
   <entry>
     <title>实验论文初稿 转动定律高精度质量测量</title>
@@ -634,190 +839,19 @@ f(x) = a*9.7947*\frac{x+\frac{62.14}{2000}}{0.00488+a*(x+\frac{62.14}{2000})^2+a
       </tags>
   </entry>
   <entry>
-    <title>实验及latex测试</title>
-    <url>/2023/11/04/%E5%AE%9E%E9%AA%8C%E5%8F%8Alatex%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>测量其周期，以30个为一个单位进行测量，以减少计时所带来的误差</p>
-<p>改变物块的位置，最后通过线性拟合计算出其转动惯量</p>
-<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>b</mi><mtext>为物体过质心转动惯量与杆的转动惯量，</mtext><mi>k</mi><mtext>为与位置有关的</mtext><mi>m</mi><msup><mi>l</mi><mn>2</mn></msup><mtext>项</mtext></mrow><annotation encoding="application/x-tex">b为物体过质心转动惯量与杆的转动惯量，k为与位置有关的ml^2项
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8641079999999999em;vertical-align:0em;"></span><span class="mord mathdefault">b</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">物</span><span class="mord cjk_fallback">体</span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">质</span><span class="mord cjk_fallback">心</span><span class="mord cjk_fallback">转</span><span class="mord cjk_fallback">动</span><span class="mord cjk_fallback">惯</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">与</span><span class="mord cjk_fallback">杆</span><span class="mord cjk_fallback">的</span><span class="mord cjk_fallback">转</span><span class="mord cjk_fallback">动</span><span class="mord cjk_fallback">惯</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">，</span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">与</span><span class="mord cjk_fallback">位</span><span class="mord cjk_fallback">置</span><span class="mord cjk_fallback">有</span><span class="mord cjk_fallback">关</span><span class="mord cjk_fallback">的</span><span class="mord mathdefault">m</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord cjk_fallback">项</span></span></span></span></span></p>
-<p>问题</p>
-<p>在实验过程中发现其振幅会因阻力较为快速的衰减，对实验结果有不小的影响，进行修正</p>
-<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>首先，设其受一与角速度成线性关系的力矩：</mtext><msub><mi>M</mi><mi>f</mi></msub><mo>=</mo><mo>−</mo><mi>A</mi><mover accent="true"><mi>θ</mi><mo>˙</mo></mover><mspace linebreak="newline"></mspace><mtext>则其运动方程变为：</mtext><mi>I</mi><mover accent="true"><mi>θ</mi><mo>¨</mo></mover><mo>+</mo><mi>A</mi><mover accent="true"><mi>θ</mi><mo>˙</mo></mover><mo>+</mo><mi>m</mi><mi>g</mi><mi>l</mi><mi>θ</mi><mo>=</mo><mn>0</mn><mspace linebreak="newline"></mspace><mtext>初始条件为：</mtext><mi>θ</mi><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>=</mo><msub><mi>θ</mi><mn>0</mn></msub><mtext>，</mtext><msub><mover accent="true"><mi>θ</mi><mo>˙</mo></mover><mn>0</mn></msub><mo>=</mo><mn>0</mn><mspace linebreak="newline"></mspace><mi>θ</mi><mo>=</mo><msub><mi>θ</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>A</mi><mrow><mn>2</mn><mi>I</mi></mrow></mfrac><mi>t</mi></mrow></msup><mrow><mo fence="true">[</mo><mi>cos</mi><mo>⁡</mo><mrow><mo fence="true">(</mo><mi>ω</mi><mi>t</mi><mo fence="true">)</mo></mrow><mo>+</mo><mfrac><mi>A</mi><mrow><mn>2</mn><mi>I</mi><mi>ω</mi></mrow></mfrac><mi>sin</mi><mo>⁡</mo><mrow><mo fence="true">(</mo><mi>ω</mi><mi>t</mi><mo fence="true">)</mo></mrow><mo fence="true">]</mo></mrow><mtext>，</mtext><mi>ω</mi><mo>=</mo><msqrt><mrow><mfrac><mrow><mi>m</mi><mi>g</mi><mi>l</mi></mrow><mi>I</mi></mfrac><mo>−</mo><msup><mrow><mo fence="true">(</mo><mfrac><mi>A</mi><mrow><mn>2</mn><mi>I</mi></mrow></mfrac><mo fence="true">)</mo></mrow><mn>2</mn></msup></mrow></msqrt><mspace linebreak="newline"></mspace><mtext>数据处理这一点暂时待定，通过改变</mtext><mi>l</mi><mtext>而进行拟合似乎不是很方便？</mtext><mspace linebreak="newline"></mspace><mtext>当然也还好，比如衰减项？</mtext></mrow><annotation encoding="application/x-tex">首先，设其受一与角速度成线性关系的力矩：M_f=-A\dot{\theta}
-\\
-则其运动方程变为：I\ddot{\theta}+A\dot{\theta}+mgl{\theta}=0
-\\
-初始条件为：{\theta}(0)={\theta _0}，\dot{\theta} _0=0
-\\
-\theta =\theta _0e^{-\frac{A}{2I}t}\left[ \cos \left( \omega t \right) +\frac{A}{2I\omega}\sin \left( \omega t \right) \right]，\omega =\sqrt{\frac{mgl}{I}-\left( \frac{A}{2I} \right) ^2}
-\\
-数据处理这一点暂时待定，通过改变l而进行拟合似乎不是很方便？
-\\
-当然也还好，比如衰减项？
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord cjk_fallback">首</span><span class="mord cjk_fallback">先</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">设</span><span class="mord cjk_fallback">其</span><span class="mord cjk_fallback">受</span><span class="mord cjk_fallback">一</span><span class="mord cjk_fallback">与</span><span class="mord cjk_fallback">角</span><span class="mord cjk_fallback">速</span><span class="mord cjk_fallback">度</span><span class="mord cjk_fallback">成</span><span class="mord cjk_fallback">线</span><span class="mord cjk_fallback">性</span><span class="mord cjk_fallback">关</span><span class="mord cjk_fallback">系</span><span class="mord cjk_fallback">的</span><span class="mord cjk_fallback">力</span><span class="mord cjk_fallback">矩</span><span class="mord cjk_fallback">：</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10903em;">M</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.01463em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord mathdefault">A</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.055550000000000016em;"><span class="mord">˙</span></span></span></span></span></span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:1.01463em;vertical-align:-0.08333em;"></span><span class="mord cjk_fallback">则</span><span class="mord cjk_fallback">其</span><span class="mord cjk_fallback">运</span><span class="mord cjk_fallback">动</span><span class="mord cjk_fallback">方</span><span class="mord cjk_fallback">程</span><span class="mord cjk_fallback">变</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">：</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.16666em;"><span class="mord">¨</span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.01463em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">A</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.055550000000000016em;"><span class="mord">˙</span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault" style="margin-right:0.03588em;">g</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord cjk_fallback">初</span><span class="mord cjk_fallback">始</span><span class="mord cjk_fallback">条</span><span class="mord cjk_fallback">件</span><span class="mord cjk_fallback">为</span><span class="mord cjk_fallback">：</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span><span class="mopen">(</span><span class="mord">0</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.0813em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span><span class="mord cjk_fallback">，</span><span class="mord"><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9313em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span></span></span><span style="top:-3.26344em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.055550000000000016em;"><span class="mord">˙</span></span></span></span></span></span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">θ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathdefault">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.0234649999999998em;"><span style="top:-3.4130000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight"><span class="mopen nulldelimiter sizing reset-size3 size6"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8720928571428572em;"><span style="top:-2.656em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mathdefault mtight" style="margin-right:0.07847em;">I</span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.384em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.344em;"><span></span></span></span></span></span><span class="mclose nulldelimiter sizing reset-size3 size6"></span></span><span class="mord mathdefault mtight">t</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span><span class="mord mathdefault">t</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">A</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mop">sin</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span><span class="mord mathdefault">t</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord cjk_fallback">，</span><span class="mord mathdefault" style="margin-right:0.03588em;">ω</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:3.04em;vertical-align:-1.0541359999999997em;"></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.9858640000000003em;"><span class="svg-align" style="top:-5em;"><span class="pstrut" style="height:5em;"></span><span class="mord" style="padding-left:1em;"><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07847em;">I</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">m</span><span class="mord mathdefault" style="margin-right:0.03588em;">g</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="minner"><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">A</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">)</span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.6540080000000001em;"><span style="top:-3.9029000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span><span style="top:-3.9458640000000003em;"><span class="pstrut" style="height:5em;"></span><span class="hide-tail" style="min-width:1.02em;height:3.08em;"><svg width='400em' height='3.08em' viewBox='0 0 400000 3240' preserveAspectRatio='xMinYMin slice'><path d='M473,2793
-c339.3,-1799.3,509.3,-2700,510,-2702 l0 -0
-c3.3,-7.3,9.3,-11,18,-11 H400000v40H1017.7
-s-90.5,478,-276.2,1466c-185.7,988,-279.5,1483,-281.5,1485c-2,6,-10,9,-24,9
-c-8,0,-12,-0.7,-12,-2c0,-1.3,-5.3,-32,-16,-92c-50.7,-293.3,-119.7,-693.3,-207,-1200
-c0,-1.3,-5.3,8.7,-16,30c-10.7,21.3,-21.3,42.7,-32,64s-16,33,-16,33s-26,-26,-26,-26
-s76,-153,76,-153s77,-151,77,-151c0.7,0.7,35.7,202,105,604c67.3,400.7,102,602.7,104,
-606zM1001 80h400000v40H1017.7z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.0541359999999997em;"><span></span></span></span></span></span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord cjk_fallback">数</span><span class="mord cjk_fallback">据</span><span class="mord cjk_fallback">处</span><span class="mord cjk_fallback">理</span><span class="mord cjk_fallback">这</span><span class="mord cjk_fallback">一</span><span class="mord cjk_fallback">点</span><span class="mord cjk_fallback">暂</span><span class="mord cjk_fallback">时</span><span class="mord cjk_fallback">待</span><span class="mord cjk_fallback">定</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">通</span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">改</span><span class="mord cjk_fallback">变</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord cjk_fallback">而</span><span class="mord cjk_fallback">进</span><span class="mord cjk_fallback">行</span><span class="mord cjk_fallback">拟</span><span class="mord cjk_fallback">合</span><span class="mord cjk_fallback">似</span><span class="mord cjk_fallback">乎</span><span class="mord cjk_fallback">不</span><span class="mord cjk_fallback">是</span><span class="mord cjk_fallback">很</span><span class="mord cjk_fallback">方</span><span class="mord cjk_fallback">便</span><span class="mord cjk_fallback">？</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord cjk_fallback">当</span><span class="mord cjk_fallback">然</span><span class="mord cjk_fallback">也</span><span class="mord cjk_fallback">还</span><span class="mord cjk_fallback">好</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">比</span><span class="mord cjk_fallback">如</span><span class="mord cjk_fallback">衰</span><span class="mord cjk_fallback">减</span><span class="mord cjk_fallback">项</span><span class="mord cjk_fallback">？</span></span></span></span></span></p>
-]]></content>
-      <tags>
-        <tag>Test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>秋声赋</title>
-    <url>/2023/11/03/%E7%A7%8B%E5%A3%B0%E8%B5%8B/</url>
-    <content><![CDATA[<p><strong>秋声赋</strong></p>
-<p>欧阳修</p>
-<p>欧阳子方夜读书，闻有声自西南来者，悚然而听之，曰：“异哉！”初淅沥以萧飒，忽奔腾而砰湃，如波涛夜惊，风雨骤至。其触于物也，鏦鏦铮铮，金铁皆鸣；又如赴敌之兵，衔枚疾走，不闻号令，但闻人马之行声。余谓童子：“此何声也？汝出视之。”童子曰：“星月皎洁，明河在天，四无人声，声在树间。”</p>
-<p>余曰：“噫嘻悲哉！此秋声也，胡为而来哉？盖夫秋之为状也：其色惨淡，烟霏云敛；其容清明，天高日晶；其气栗冽，砭人肌骨；其意萧条，山川寂寥。故其为声也，凄凄切切，呼号愤发。丰草绿缛而争茂，佳木葱茏而可悦；草拂之而色变，木遭之而叶脱。其所以摧败零落者，乃其一气之余烈。夫秋，刑官也，于时为阴；又兵象也，于行用金，是谓天地之义气，常以肃杀而为心。天之于物，春生秋实，故其在乐也，商声主西方之音，夷则为七月之律。商，伤也，物既老而悲伤；夷，戮也，物过盛而当杀。” (余曰 一作：予曰)</p>
-<p>“嗟乎！草木无情，有时飘零。人为动物，惟物之灵；百忧感其心，万事劳其形；有动于中，必摇其精。而况思其力之所不及，忧其智之所不能；宜其渥然丹者为槁木，黟然黑者为星星。奈何以非金石之质，欲与草木而争荣？念谁为之戕贼，亦何恨乎秋声！”</p>
-<p>童子莫对，垂头而睡。但闻四壁虫声唧唧，如助予之叹息。</p>
+    <title>新增每日一言</title>
+    <url>/2023/11/11/%E6%96%B0%E5%A2%9E%E6%AF%8F%E6%97%A5%E4%B8%80%E8%A8%80/</url>
+    <content><![CDATA[<p>博客新增栏目，每日一言，从明天开始，每日分享一段各国文学作品中的文字，英国、俄罗斯、葡语等等，当然也包括中国各地的文学</p>
 ]]></content>
       <categories>
-        <category>诗词文赋</category>
+        <category>每日一言</category>
       </categories>
-      <tags>
-        <tag>秋</tag>
-      </tags>
   </entry>
   <entry>
-    <title>夜晚 激光 云杉</title>
-    <url>/2023/11/03/%E5%A4%9C%E6%99%9A-%E6%BF%80%E5%85%89-%E4%BA%91%E6%9D%89/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>11/3/2023 日记</title>
-    <url>/2023/11/03/11-3-2023-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>11/2/2023 日记</title>
-    <url>/2023/11/02/11-2-2023-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li><strong>夜空永远是最好的画布</strong></li>
-<li>今天上午，路边，一处小树林旁，见其间一条弯弯的石板路，<span id="more"></span>阳光透过不是很密的枝叶，一片一片金黄洒在柔绿的草地上，七八只鸟儿在林间舞动，种类不同，都不怕人，扑翅弹跳，十分灵巧惹人怜。有一个场景可惜没拍下来，一只身披灰羽的鸟，以极优雅端庄的姿态穿过小路，其身躯与石板的比例，恰如其分，画面十分完美。</li>
-<li>下午，在上坡时，迎着灿烂的阳光，路旁有几棵树，树下，璨璨的，粉红色的花一朵接一朵，其间亦有青草。花草接壤间，充盈着柔柔的光。</li>
-<li>晚上，做实验，半导体温度计，电路需要焊接，第一次用电烙铁，其间大拇指不小心挨了一下，只一瞬间，过一会开始痛，一段时间后起了一个小包，500摄氏度还是要小心的；同时，由于在焊接时担心接触不良，使用了相当于正常量4倍的锡，品质当然非常棒，毕竟出自XYLS之手😎，只是没料到，实验结束，融化锡时，需要几倍于别人的时间耐心等待，500摄氏度不过如此🥱</li>
-<li>要开始准备实验论文啦</li>
-<li>以及数分</li>
-<li>zoom在国内使用不便，teams似乎比较卡，最后最好的选择居然是腾讯会议，无奈屈服于现状🥲</li>
-<li>睡觉😴</li>
-</ul>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>记录</tag>
-        <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>红豆曲</title>
-    <url>/2023/11/02/%E7%BA%A2%E8%B1%86%E6%9B%B2/</url>
-    <content><![CDATA[<p><img src="/pic/%E7%BA%A2%E8%B1%86%E6%9B%B2.jpg" alt="配图" title="一张图片"><br>
-<strong>滴不尽相思血泪抛红豆，开不完春柳春花满画楼</strong><br>
-<strong>睡不稳纱窗风雨黄昏后，忘不了新愁与旧愁</strong><br>
-<strong>咽不下玉粒金莼噎满喉；照不见菱花镜里形容瘦</strong><br>
-<strong>展不开的眉头，捱不明的更漏</strong><br>
-<strong>呀！恰便似遮不住的青山隐隐，流不断的绿水悠悠</strong></p>
-<p>有很多典故</p>
-<p>关于红楼梦，一种看法是对于朱明的追忆，在这种观点下，葬花词、红豆曲，便是另外一层意思，不妨看一看这个观点下的解读(不作褒贬的评价)，来源于网络</p>
-<span id="more"></span>
-<p><strong>滴不尽相思血泪抛红豆</strong></p>
-<blockquote>
-<p>关于相思豆，有多个传说</p>
-<ul>
-<li>传说在汉代时，一位男子即将出征，其妻每日在高山上等待盼望，日复一日终不见其归来，遂常泪流不止，直至泪水流尽，滴下血红的血泪，落在地上，受天地滋养，生根发芽，长成后结朱红色果实，被称为相思豆</li>
-<li>传说一位貌美的姑娘，思念因寻找幸福泉而出走的挚爱，每日在山坡上遥望远方，盼其归来，泪珠撒在树枝上，形成颗颗红色的心形圆粒，便为相思豆</li>
-<li>在这个观点下，有人认为，血泪红豆是对死难疆场的英雄的悼念，与葬花吟照应，是对扬州城破、史可法殉国以及扬州十日八十万死难百姓的祭奠</li>
-</ul>
-</blockquote>
-<p><strong>开不完春柳春花满画楼</strong></p>
-<blockquote>
-<p>伊昔<br>
-作者: 于石 南宋<br>
-伊昔西湖柳，清阴满画楼<br>
-午凉欺舞扇，晚雨系渔舟<br>
-春尽花无主，风寒叶自秋<br>
-六桥今在否，空惜旧时游<br>
-南宋灭亡后，作者重游故都临安，感怀而作此诗</p>
-</blockquote>
-<p><strong>睡不稳纱窗风雨黄昏后</strong></p>
-<blockquote>
-<p>八声甘州·故将军饮罢夜归来<br>
-作者: 辛弃疾 宋<br>
-夜读《李广传》，不能寐。因念晁楚老、杨民瞻约同居山间，戏用李广事，赋以寄之<br>
-故将军饮罢夜归来，长亭解雕鞍<br>
-恨灞陵醉尉，匆匆未识，桃李无言<br>
-射虎山横一骑，裂石响惊弦<br>
-落魄封侯事，岁晚田间<br>
-谁向桑麻杜曲，要短衣匹马，移住南山<br>
-看风流慷慨，谈笑过残年<br>
-汉开边、功名万里，甚当时、健者也曾闲<br>
-纱窗外、斜风细雨，一阵轻寒</p>
-</blockquote>
-<p><strong>忘不了新愁与旧愁</strong></p>
-<blockquote>
-<p>自曹南至阳翟追怀江上旧游呈叔弟<br>
-作者: 吕本中 宋<br>
-醉别白沙江上亭，晚蝉高树各秋声<br>
-风乘小艇凫鹥进，雨历疏檐环佩鸣<br>
-家事不随王事了，新愁常接旧愁生<br>
-只今疲病嫌鞍马，十日同居眼暂明</p>
-</blockquote>
-<p><strong>咽不下玉粒金莼噎满喉</strong></p>
-<blockquote>
-<p>玉粒:<br>
-题二禽图<br>
-作者: 吴伟业 明末<br>
-旧朝虽去主人空，剪雨捎风自在中<br>
-却笑雪衣贪玉粒，羽毛憔悴闭雕笼<br>
-金莼:<br>
-张翰 “莼鲈之思”<br>
-意指既不愿为满清的奴才，也无法归隐，独善其身</p>
-</blockquote>
-<p><strong>照不见菱花镜里形容瘦</strong></p>
-<blockquote>
-<p>明妃怨<br>
-作者: 杨达 唐<br>
-汉国明妃去不还，马驼弦管向阴山<br>
-匣中纵有菱花镜，羞对单于照旧颜</p>
-</blockquote>
-<p><strong>展不开的眉头，捱不明的更漏</strong></p>
-<blockquote>
-<p>李清照 宋<br>
-一剪梅: 花自飘零水自流，一种相思，两处闲愁  此情无计可消除  才下眉头，却上心头<br>
-行香子: 那堪永夜，明月空床  闻砧声捣，蛩声细，漏声长</p>
-</blockquote>
-<p><strong>呀！恰便似遮不住的青山隐隐，流不断的绿水悠悠</strong></p>
-<blockquote>
-<p>菩萨蛮·书江西造口壁<br>
-辛弃疾 宋<br>
-郁孤台下清江水，中间多少行人泪<br>
-西北望长安，可怜无数山<br>
-青山遮不住，毕竟东流去<br>
-江晚正愁余，山深闻鹧鸪。(愁余 一作：愁予)</p>
-</blockquote>
-<p>还挺有意思的。</p>
-]]></content>
-      <categories>
-        <category>诗词文赋</category>
-      </categories>
-      <tags>
-        <tag>红楼梦</tag>
-        <tag>清朝</tag>
-        <tag>曹雪芹</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>加密测试</title>
-    <url>/2023/11/02/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</url>
+    <title>秋</title>
+    <url>/2023/11/12/%E7%A7%8B/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="76c6545672cccf348f8c57af7ebe9cfd6c81bd72a377801ad0296e3fd96cb2e9">4630436162ade97ba2718b7d0c4b3b63cbf22708173a6d59f69c642e7d695da82392c3152211c84589e8c1bf8267bc6d</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="67e0481560c4cf5dc9f06d3110d697965126257cec446ce1c02b43420ed8742c">eda57e9acee72ac0d866bf38b87518fc8f686317af877b694b88fe9cdcb9a57ff333b819da9b450ebe94ef7c6f7d9b1acf183ac12bf5cbb8d32b0a5d0f55205b023ae89d797f5b234e8974002ac87c7531c77d0e59e3014928e3499954440d7e291f86135ce594e3e8d85403ab40088ee19d8a3e8e8a1f14c33f3085b44a06eb010c48e97c43a4df00dcf164e8c46b838e88660f7935e79df619af2de01ee7e8cdab1ebd68038d0a2ff8a6793b67054575e59d7a3beb64c3344b397a0962a57f2370dfda3239dd1641d928fa4ed8fba2355591e138e3de335b97ffa3d0562f2ce7ae1edf4894591a3aa4887084b545709e8fe103d5cdfb7afe2146805c7e06a21c939c1fc7d1888ae11fc6fa01ca5058f3078a84a13ef96ce5631867aa850616c58831764477ae7ce93e35974e4a712e1e4ddb64b75f298b74013dde38506f5d2494e1f725506947a909aaf1d71fd3643670dc6f29073c34c4563c71201fd73aba8689efe4ecb75b787a77b29f472d05ef347209de07352a18befaf3e3190a43d2a76f47c447bb8d16bac2bcf6ded5594ea48caa55c72edffd4a65c8a7dda9aae25e9894afa7b8ba8173cd644fb17b3aa4ebe25875d5a18a33a4afa9cdf5d8c9bf084557c52003ddac80de345c3786cf85df306ec233f33a8439e2736785fb4be6add4d947a4d6435bda7b2d81192822cee59067611280cee6b792b7da51a8e14f2a3458690caef00c11834bf7ca07ce06bf85aef85b6fd991de73546d8f3f791d3520422462d726cc842ab8300afe0345fd146c7f801f28f239f41f3eed2e96e833e402302a1302038d6c7f01bd716224dac0e35300d1be916e428c6059dc58fc9e3e41f9fd4360ae457ec8309d6b40efca2455745edd08f9a18bca4eab8824e041285d5b835380d74b552041e86a17f06f986eded5ae47ebd6861eb5bc7df638ef205025f80a736f389e0ac8760d1a</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -828,45 +862,36 @@ s76,-153,76,-153s77,-151,77,-151c0.7,0.7,35.7,202,105,604c67.3,400.7,102,602.7,1
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>图片</category>
+      </categories>
       <tags>
-        <tag>Test</tag>
+        <tag>秋</tag>
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/11/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>分类测试</title>
-    <url>/2023/11/01/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>分类测试</p>
+    <title>11.12 每日一言</title>
+    <url>/2023/11/12/11-12-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%A8%80/</url>
+    <content><![CDATA[<ul>
+<li>
+<p>“我就是单纯地无法抗拒一只猫，尤其是那种发出咕噜咕噜叫声的猫。”</p>
+<p>——马克·吐温</p>
+</li>
+<li>
+<p>“世界上曾经有两个不停地相互交织的真理，一个是：生活有说不出的美妙；另一个是：生活到底是怎么回事，只有疯子才明白。”</p>
+<p>——И. А. 蒲宁《阿昌的梦》</p>
+</li>
+<li>
+<p>“那天下午赫里内勒多·马尔克斯上校收到了奥雷里亚诺·布恩迪亚上校的电报。那是一次例行公事的谈话，没有为胶着的战局带来任何突破。谈话即将结束时赫里内勒多·马尔克斯上校望着荒凉的街道、巴旦杏树上凝结的水珠，感觉自己在孤独中迷失了。</p>
+<p>「奥雷里亚诺」，他悲伤地敲下发报键，「马孔多在下雨。」</p>
+<p>线路上一阵长久地沉默。忽然，机器上跳出奥雷里亚诺·布恩迪亚上校冷漠的电码。</p>
+<p>「别犯傻了，赫里内勒多，」电码如是说道，「八月下雨很正常。」</p>
+<p>——加西亚·马尔克斯《百年孤独》</p>
+</li>
+</ul>
 ]]></content>
       <categories>
-        <category>Testing</category>
+        <category>每日一言</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Test</title>
-    <url>/2023/11/01/Test/</url>
-    <content><![CDATA[<p>This is a test.</p>
-]]></content>
-      <tags>
-        <tag>Test</tag>
-      </tags>
   </entry>
 </search>
