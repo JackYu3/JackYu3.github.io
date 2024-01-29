@@ -1215,4 +1215,20 @@ f(x) = a*9.7947*\frac{x+\frac{62.14}{2000}}{0.00488+a*(x+\frac{62.14}{2000})^2+a
         <tag>曹雪芹</tag>
       </tags>
   </entry>
+  <entry>
+    <title>6道题的解答</title>
+    <url>/2024/01/29/6%E9%81%93%E9%A2%98%E7%9A%84%E8%A7%A3%E7%AD%94/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="47a86ba8ca8f4cbcbb9943131e52197b67d3680febd2344bf4e57f234893afd4">c48193902ab352ee2fcad37ae4ad170d5575a5da2a916c89c3c910969dfb4721</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+  </entry>
 </search>
