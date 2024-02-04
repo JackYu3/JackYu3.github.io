@@ -18,4 +18,7 @@
 	/* 以下代表透明度为0.7 */
 	background: rgba(255,255,255, .0);
 }
- 
+[data-theme='dark'] .layout_post>#post {
+  /* 以下代表透明度为0.7 可以自行修改*/
+  background: rgba(0,0,0,.7);
+}
