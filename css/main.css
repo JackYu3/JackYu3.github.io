@@ -2933,3 +2933,25 @@ header.header {
     padding: 10px 12px;
   }
 }
+body {
+  background: url("/images/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.content-wrap {
+  opacity: 0.8;
+}
+.header-inner {
+  background: rgba(34,34,34,0.8);
+}
+.popup {
+  opacity: 0.8;
+}
+.post-block {
+  background: rgba(34,34,34,0.8) none repeat scroll !important;
+}
+.sidebar-inner {
+  background: rgba(34,34,34,0.7) none repeat scroll !important;
+}
